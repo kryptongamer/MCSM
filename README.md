@@ -1,17 +1,9 @@
-<p align="center">
-	<a href=""><img src="https://cf.way2muchnoise.eu/417649.svg" alt="Downloads CurseForge"></a>
-	<a href=""><img src="https://cf.way2muchnoise.eu/versions/417649.svg" alt="Versions CurseForge"></a>
-	[![Releases](https://img.shields.io/github/release/kryptongamer/MCSM.svg)](https://github.com/dedepete/kryptongamer/MCSM/latest)
-</p>
+## MC Server Manager
+Hey, I'm KryptonGamer and I'm learning to code even more in C # and getting started with WPF. Currently I have a minecraft 1.15.x server to play with my friends and over two weeks I have realized that I had to collect a lot of information so that my server was optimal, it would restart only even with crash and I could update the mods automatically without having to pass a file to my friends every time I inserted or removed a mod.
 
-<p align="center">
-	## MC Server Manager
-	Hey, I'm KryptonGamer and I'm learning to code even more in C # and getting started with WPF. Currently I have a minecraft 1.15.x server to play with my friends and over two weeks I have realized that I had to collect a lot of information so that my server was optimal, it would restart only even with crash and I could update the mods automatically without having to pass a file to my friends every time I inserted or removed a mod.
+With MCSM what I want to achieve is that at least those people who need it, can run a server with the best arguments, have the server auto-restart (it even crashes or freezes) and their users can update their mods in real time .
 
-	With MCSM what I want to achieve is that at least those people who need it, can run a server with the best arguments, have the server auto-restart (it even crashes or freezes) and their users can update their mods in real time .
-
-	Perhaps in the future I will release the project so that anyone can modify it to their liking
-</p>
+Perhaps in the future I will release the project so that anyone can modify it to their liking
 
 ## Links
 - [Curseforge Site]()
